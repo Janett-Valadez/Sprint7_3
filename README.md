@@ -35,10 +35,8 @@ Esto abrirá la aplicación en tu navegador en:
 
 ## 📌 3. Despliegue en Render
 1. Accede a tu cuenta en [Render](https://render.com/) y abre el **Dashboard**  
-   ![Render Dashboard](render_dashboard.png)
 
 2. Crea un **nuevo servicio web** enlazado a tu repositorio de GitHub  
-   ![Nuevo servicio web](render_new_web_service.png)
 
 3. Configura tu servicio web:
    - **Build Command**  
@@ -49,10 +47,8 @@ Esto abrirá la aplicación en tu navegador en:
      ```bash
      streamlit run app.py
      ```
-   ![Configuración](render_configure_2.png)
 
 4. Despliega y espera que el build termine correctamente  
-   ![Build success](render_build_success.png)
 
 5. Comprueba tu aplicación en:  
    ```
