@@ -21,5 +21,3 @@ fig.update_traces(line_color="blue", name="sin(x)")
 
 st.plotly_chart(fig, use_container_width=True)
 
-
-
