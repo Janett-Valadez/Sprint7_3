@@ -9,7 +9,7 @@ st.write("Este es un ejemplo simple para mostrar cómo desplegar una app en Rend
 
 # Generar datos de ejemplo
 x = np.linspace(0, 10, 100)
-y = np.sin(x)
+y = np.cos(x)
 
 df = pd.DataFrame({"x": x, "y": y})
 
